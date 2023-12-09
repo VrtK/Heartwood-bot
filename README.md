@@ -13,6 +13,8 @@ A simple python based object detection bot
 8. Auto return to spot
    
 # How to Use it?
+main.py converted to Self-packed EXE can be found here - https://file.io/PIsadqkSc60A
+
 1. Use Bluestack as the Android emulator
    Direct download link - https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10&mac_version=&client_uuid=324fb482-dd39-4575-b31e-a0cfd1398b47&app_pkg=com.threebit.heartwoodonline&platform_cloud=&preferred_lang=en&utm_source=&utm_medium=&gaCookie=&gclid=&clickid=&msclkid=&affiliateId=&offerId=&transaction_id=&aff_sub=&first_landing_page=&referrer=&download_page_referrer=&utm_campaign=ap-heartwood-online-us&user_id=&exit_utm_campaign=ap-heartwood-online-us&incompatible=false&bluestacks_version=bs5&device_memory=8&device_cpu_cores=4
    
