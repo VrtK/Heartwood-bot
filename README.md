@@ -1,55 +1,42 @@
 # Heartwood Mining Bot
-A simple python based object detection bot
 
-![](https://pouch.jumpshare.com/preview/pojKfgvlaCea-nBUAch4mZEL5cgDs0NYwdxICnRbgcQEA3TIKqQr5MjpQF1YWEmZ8v_uyZgIJXOpT3Of-9qlbAjeoMkPyoH0rQvK1pICxiM)
-# Features:
-1. Mine different sizes of coal  
-2. Move around a specific area
-3. Mini-map with objects marking
-4. Auto return to Town
-5. Auto store the coal in the bank once the bag is full
-6. Fast pull from the bank
-7. Fast Trade
-8. Auto return to spot
+![Bot in Action](https://github.com/VrtK/Heartwood-bot/blob/main/bot_play.gif?raw=true)
+
+## Overview
+Heartwood Mining Bot is a versatile Python-based object detection bot designed for efficient coal mining in the Heartwood Online game. With a range of features, intuitive controls, and optimization for Bluestacks emulator, this bot aims to enhance your gaming experience.
+
+## Features
+1. **Coal Mining:** Extract coal of various sizes efficiently.
+2. **Area Navigation:** Move seamlessly within a specified area.
+3. **Mini-Map Marking:** Visualize objects on the mini-map for enhanced awareness.
+4. **Auto Return:** Automatically return to the town for convenience.
+5. **Auto Storage:** Store coal in the bank when the bag is full.
+6. **Fast Bank Interaction:** Quickly retrieve items from the bank.
+7. **Fast Trade:** Expedite the trading process.
+8. **Smart Return:** Automatically return to the designated spot.
+
+## How to Use
+Find the self-packed EXE of the main.py [here](https://file.io/PIsadqkSc60A).
+
+1. **Emulator Setup:** Use [Bluestacks](https://www.bluestacks.com/apps/role-playing/heartwood-online-on-pc.html) as the Android emulator. Set the emulator resolution to 1600X900.
    
-# How to Use it?
-main.py converted to Self-packed EXE can be found here - https://file.io/PIsadqkSc60A
+   ![Emulator Resolution](https://github.com/VrtK/Heartwood-bot/assets/20610711/1b096cbf-a56d-4494-9b3f-c82f22ab9362)
 
-1. Use Bluestack as the Android emulator
-   Direct download link - https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10&mac_version=&client_uuid=324fb482-dd39-4575-b31e-a0cfd1398b47&app_pkg=com.threebit.heartwoodonline&platform_cloud=&preferred_lang=en&utm_source=&utm_medium=&gaCookie=&gclid=&clickid=&msclkid=&affiliateId=&offerId=&transaction_id=&aff_sub=&first_landing_page=&referrer=&download_page_referrer=&utm_campaign=ap-heartwood-online-us&user_id=&exit_utm_campaign=ap-heartwood-online-us&incompatible=false&bluestacks_version=bs5&device_memory=8&device_cpu_cores=4
+3. **Game Settings:**
    
-   OR
+   <img src="https://github.com/VrtK/Heartwood-bot/assets/20610711/8c8ecd31-343e-4b2d-925c-7d08f0c00908" width="50%" height="50%">
+   <img src="https://github.com/VrtK/Heartwood-bot/assets/20610711/5ce02bfe-0ff1-4e2b-9d4f-4669a5f03329" width="50%" height="50%">
+
+5. **Tested Area:**
    
-   https://www.bluestacks.com/apps/role-playing/heartwood-online-on-pc.html
+   <img src="https://github.com/VrtK/Heartwood-bot/assets/20610711/809c588e-93ba-456c-be41-34aefe9e1364" width="50%" height="50%">
 
-3. Set the emulator resolution to 1600X900
+   Note: You can modify the main object location at `\MISC\mining\main.JPG`.
 
-   ![image](https://github.com/VrtK/Heartwood-bot/assets/20610711/1b096cbf-a56d-4494-9b3f-c82f22ab9362)
+## Tips and Tricks
+- **Avoid Bans:** Disconnect periodically from the game.
+- **Farming Server:** Opt for less populated servers for efficient grinding.
+- **Separate Accounts:** Avoid sharing the same PC (android_id) and IP address for main and bot accounts.
+- **Android ID Change:** In case of a ban, modify the Android ID in "C:\ProgramData\BlueStacks_nxt\bluestacks.conf" > android_id.
 
-
-5. Game settings -
-   
-   <img src="https://github.com/VrtK/Heartwood-bot/assets/20610711/8c8ecd31-343e-4b2d-925c-7d08f0c00908" width=50% height=50%>
-   <img src="https://github.com/VrtK/Heartwood-bot/assets/20610711/5ce02bfe-0ff1-4e2b-9d4f-4669a5f03329" width=50% height=50%>
-
-7. The only area that has been tested(+return to town function is working) is the following area, 
-   <img src="https://github.com/VrtK/Heartwood-bot/assets/20610711/809c588e-93ba-456c-be41-34aefe9e1364" width=50% height=50%>
-   
-     you may change it if you change the main object(located at \MISC\mining\main.JPG)
-
-
-Tips and Tricks:
-
-a. Avoid Bans, make sure to disconnect every few hours from the game
-
-b. Farming server - Grind on empty servers.
-
-c. Don't Share the same PC(AKA android_id) and the IP address for your main account and the bot account!
-
-d. If you get banned, make sure to change the Android ID in the conf file - "C:\ProgramData\BlueStacks_nxt\bluestacks.conf" > android_id.
-
-
-   
-
-Happy grinding :)
-
+Happy Grinding! 🎮
