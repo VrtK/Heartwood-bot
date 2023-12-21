@@ -16,7 +16,7 @@ Heartwood Mining Bot is a versatile Python-based object detection bot designed f
 8. **Smart Return:** Automatically return to the designated spot.
 
 ## How to Use
-Find the self-packed EXE of the main.py [here](https://file.io/PIsadqkSc60A).
+Find the self-packed EXE of the main.py [here](https://www.mediafire.com/file/i6cs2yaenv3ednp/main.zip).
 
 1. **Emulator Setup:** Use [Bluestacks](https://www.bluestacks.com/apps/role-playing/heartwood-online-on-pc.html) as the Android emulator. Set the emulator resolution to 1600X900.
    
